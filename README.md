@@ -18,8 +18,6 @@ Database Management: SQL.
 
  I would be happy to connect and discuss potential opportunities. Feel free to message me directly through my Linkedin 
 
-### 📩 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arian-santander-paz-66343722a)
 <!--
 **arianrenesantanderpaz-alt/arianrenesantanderpaz-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
